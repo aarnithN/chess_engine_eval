@@ -8,7 +8,7 @@ import tensorflow as tf
 class model:
 
     
-    model = tf.keras.models.load_model("/Users/aarnithnetrawali/Desktop/Chess_AI_Engine/Chess_GUI/model/chess_eval_model.h5", compile = False)  #have to change this to retrain data 
+    model = tf.keras.models.load_model("../model/chess_eval_model.h5", compile = False)  #have to change this to retrain data 
 
 
 
