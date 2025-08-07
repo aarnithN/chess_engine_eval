@@ -26,24 +26,30 @@ Clone repo first
 
 Mac/Linux 
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 Windows
 
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
 2. install required packages
 
+```bash
 pip install -r requirements.txt
-
+```
 
 3. run main file
 
-cd Chess_AI_Engine/src/
+```bash
+cd Chess_GUI/src/
 python main.py
-
+```
 
 
 # Project optimizations
