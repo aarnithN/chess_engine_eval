@@ -53,7 +53,7 @@ python main.py
 3. press 'c' on keyboard to play against the engine
 
 
-#### Limitations/future optimizations
+### Limitations/future optimizations
 
 - Improve the precision of eval scores:
     - Add an extra channel for better interpretability 
