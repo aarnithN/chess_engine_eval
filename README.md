@@ -53,7 +53,7 @@ python main.py
 3. press 'c' on keyboard to play against the engine
 
 
-### Limitations/future optimizations
+#### Limitations/future optimizations
 
 - Improve the precision of eval scores:
     - Add an extra channel for better interpretability 
@@ -64,7 +64,7 @@ python main.py
 - Use minimax algorithm to provide the engine with higher search depth and better accuracy
 
 
-### Credits
+#### Credits
 
 - This project builds upon the GUI framework provided by AlejoG10 on their youtube channel: "Coding Spot" at https://www.youtube.com/watch?v=OpL0Gcfn4B4 
 - The assets folder is taken from author's github repo as allowed in the tutorial video: Github Repo: https://github.com/AlejoG10/python-chess-ai-yt 
