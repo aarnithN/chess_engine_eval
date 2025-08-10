@@ -6,7 +6,7 @@ A pygame GUI chess game where users have the option to play against each another
 
 ### Demo
 
-
+![demo_gif](https://github.com/aarnithN/chess_engine_eval/blob/main/chess_game.gif?raw=true)
 
 
 
