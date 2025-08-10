@@ -49,8 +49,8 @@ python main.py
 ### Usage
 
 1. press 't' on keyboard to change the theme of the board
-2. press 'r' on keyboard to restart
-3. press 'c' on keyboard to play against engine
+2. press 'r' on keyboard to restart the game
+3. press 'c' on keyboard to play against the engine
 
 
 ### Limitations/future optimizations
