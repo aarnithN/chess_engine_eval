@@ -67,7 +67,7 @@ python main.py
 #### Credits
 
 - This project builds upon the GUI framework provided by AlejoG10 on their youtube channel: "Coding Spot" at https://www.youtube.com/watch?v=OpL0Gcfn4B4 
-- The assets folder is taken from author's github repo as allowed in the tutorial video: Github Repo: https://github.com/AlejoG10/python-chess-ai-yt 
+- The assets folder is taken from author's github repo as instructed in the tutorial video: Github Repo: https://github.com/AlejoG10/python-chess-ai-yt 
 - PGN chess data from Lichess Open Database: https://database.lichess.org under Creative Commons CCO license: https://creativecommons.org/publicdomain/zero/1.0/
 - Stockfish engine for evaluating FEN's: https://stockfishchess.org under GPL lisence v3 https://www.gnu.org/licenses/gpl-3.0.html
 
