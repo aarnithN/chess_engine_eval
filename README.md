@@ -46,9 +46,9 @@ python main.py
 
 ## Usage
 
-press 't' on keyboard to change the theme of the board
-press 'r' on keyboard to restart
-press 'c' on keyboard to play against AI
+1. press 't' on keyboard to change the theme of the board
+2. press 'r' on keyboard to restart
+3. press 'c' on keyboard to play against AI
 
 
 ### Limitations/future optimizations
